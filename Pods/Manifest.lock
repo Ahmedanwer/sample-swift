@@ -1,0 +1,16 @@
+PODS:
+  - Instabug (8.0.16)
+
+DEPENDENCIES:
+  - Instabug
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Instabug
+
+SPEC CHECKSUMS:
+  Instabug: 791ad2fcb729621c175eb205d1fbd920d46f1aff
+
+PODFILE CHECKSUM: 0aba4b3e7704a8d592fd96b63e416d973b2ce23c
+
+COCOAPODS: 1.5.3
